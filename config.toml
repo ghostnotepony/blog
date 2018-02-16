@@ -1,0 +1,27 @@
+baseURL = "https://jamestwilson.github.io/"
+languageCode = "en-us"
+title = "JTW"
+theme = "hucore"
+copyright = "&copy; 2018 | Follow on <a href=\"https://twitter.com/jamestheowilson\" target=\"_blank\">Twitter</a> | <a href=\"https://github.com/mgjohansen/hucore.git\" target=\"_blank\">Hucore theme</a> & <a href=\"http://gohugo.io\" target=\"_blank\">Hugo</a> ♥"
+
+[taxonomies]
+tag = "tags"
+category = "categories"
+
+[params]
+description = "Your description here"
+keywords = ["keyword 1", "keyword 2", "keyword 3"]
+author = "James T. Wilson"
+sharingicons = true
+
+[[params.social]]
+url = "https://twitter.com/jamestheowilson"
+fa_icon = "fa-twitter"
+
+[[params.social]]
+url = "https://youtube.com/jamestheowilson"
+fa_icon = "fa-youtube"
+
+[[params.social]]
+url = "/index.xml"
+fa_icon = "fa-rss"
