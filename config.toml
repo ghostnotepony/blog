@@ -9,8 +9,8 @@ tag = "tags"
 category = "categories"
 
 [params]
-description = "Your description here"
-keywords = ["keyword 1", "keyword 2", "keyword 3"]
+description = "The blog of a father, husband, bassist, and all around nerd.  Not necessarily in that order."
+keywords = ["family", "electric bass", "what is it all about"]
 author = "James T. Wilson"
 sharingicons = true
 
