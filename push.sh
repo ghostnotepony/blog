@@ -1,9 +1,9 @@
-#!/bin/bash
+#!/bin/sh
 
 # Build the project.
 hugo 
 
-# Go To Public folder
+# Go To Public directory
 cd public
 # Add changes to git.
 git add .
@@ -18,5 +18,4 @@ git commit -m "$msg"
 # Push source and build repos.
 git push origin master
 
-# Come Back up to the Project Root
 cd ..
