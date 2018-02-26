@@ -10,7 +10,7 @@ category = "categories"
 
 [params]
 description = "The blog of a father, husband, bassist, and all around nerd.  Not necessarily in that order."
-keywords = ["family", "electric bass", "what is it all about"]
+keywords = ["family", "electric bass", "general thoughts", "ramblings"]
 author = "James T. Wilson"
 sharingicons = true
 
@@ -21,6 +21,10 @@ fa_icon = "fa-twitter"
 [[params.social]]
 url = "https://youtube.com/jamestheowilson"
 fa_icon = "fa-youtube"
+
+[[params.social]]
+url = "https://twitch.tv/jamestheowilson"
+fa_icon = "fa-twitch"
 
 [[params.social]]
 url = "/index.xml"
