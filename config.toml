@@ -15,6 +15,11 @@ author = "James T. Wilson"
 sharingicons = true
 
 [[params.social]]
+title = "email"
+fa_icon = "fa-envelope"
+url = "mailto:jamestwilson@gmail.com"
+
+[[params.social]]
 url = "https://twitter.com/jamestheowilson"
 fa_icon = "fa-twitter"
 
