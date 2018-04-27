@@ -11,7 +11,7 @@ category = "categories"
 [params]
 description = "The blog of a father, husband, bassist, and all around nerd.  Not necessarily in that order."
 keywords = ["family", "electric bass", "general thoughts", "ramblings"]
-author = "James T. Wilson"
+author = "JT Wilson"
 sharingicons = true
 
 [[params.social]]
