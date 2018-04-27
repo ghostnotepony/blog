@@ -3,7 +3,7 @@
 # Build the project.
 hugo 
 
-# Go To Public directory
+# Go to public directory
 cd public
 # Add changes to git.
 git add .
