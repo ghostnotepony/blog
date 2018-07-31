@@ -1,6 +1,6 @@
 ---
 title: "Thoughts on World of Warcraft"
-date: 2018-06-08T12:47:09-05:00
+date: 2018-07-30T23:40:07-05:00
 ---
 
 I think it was about 10-11 years ago that I started regularly playing Blizzard's seminal MMORPG, World of Warcraft.  Back then, I had enormous amounts of free time (that seem mostly wasted, in retrospect) but I did have a lot of fun playing WoW during that time.  Of course, as time went on, my life changed significantly for the better but I still tried to fit in playing whenever I could.  Eventually, though, I found that it wasn't worth the time and I wasn't really having fun anymore.  I didn't really know anybody anymore either; it was mostly like playing a single player game vs. how it was back in the Burning Crusade expansion when I started so it was easy to step out.  It does make me wonder, though..did this happen because the game changed, my life circumstances changed, or both?
