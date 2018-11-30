@@ -1,6 +1,6 @@
 ---
 title: "Thoughts on Fields of Gold and Rainbow"
-date: 2018-11-20T22:20:39-06:00
+date: 2018-11-29T22:20:39-06:00
 ---
 
 Now that things have (kind of) settled down for me, I want to get my thoughts on the first two songs I've released written while they're (relatively) fresh in my mind.
