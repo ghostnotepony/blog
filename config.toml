@@ -9,7 +9,7 @@ tag = "tags"
 category = "categories"
 
 [params]
-description = "A brief review/analysis of Doctor Who Series 11.  #doctorwho #doctorwhos11"
+description = "JT Wilson's sporadic blog."
 keywords = ["family", "electric bass", "general thoughts", "ramblings", "brony"]
 author = "JT Wilson"
 sharingicons = true
