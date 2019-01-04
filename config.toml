@@ -9,8 +9,8 @@ tag = "tags"
 category = "categories"
 
 [params]
-description = "The blog of a father, husband, bassist, and all around nerd.  Not necessarily in that order."
-keywords = ["family", "electric bass", "general thoughts", "ramblings"]
+description = "A brief review/analysis of Doctor Who Series 11.  #doctorwho #doctorwhos11"
+keywords = ["family", "electric bass", "general thoughts", "ramblings", "brony"]
 author = "JT Wilson"
 sharingicons = true
 
