@@ -9,7 +9,7 @@ tag = "tags"
 category = "categories"
 
 [params]
-description = "JT Wilson's sporadic blog."
+description = ""
 keywords = ["family", "electric bass", "general thoughts", "ramblings", "brony"]
 author = "JT Wilson"
 sharingicons = true
