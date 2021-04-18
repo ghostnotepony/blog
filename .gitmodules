@@ -1,7 +1,0 @@
-[submodule "jamestwilson.github.io"]
-	path = jamestwilson.github.io
-	url = git@github.com:jamestwilson/jamestwilson.github.io.git
-	branch = master
-[submodule "themes/book"]
-	path = themes/book
-	url = https://github.com/alex-shpak/hugo-book
