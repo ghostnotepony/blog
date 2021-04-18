@@ -1,36 +1,44 @@
-baseURL = "https://ghostnotepony.github.io/"
-languageCode = "en-us"
+baseurl = "https://ghostnotepony.github.io/"
+languageCode = "en"
 title = "Ghost Note"
-theme = "hucore"
-copyright = "&copy; 2019 | Follow on <a href=\"https://twitter.com/ghostnotepony\" target=\"_blank\">Twitter</a> | <a href=\"https://github.com/mojoaar/hucore\" target=\"_blank\">Hucore theme</a> & <a href=\"https://gohugo.io\" target=\"_blank\">Hugo</a> ♥"
+theme = "kiss"
+copyright = "&copy; 2021 | Follow on <a href=\"https://twitter.com/ghostnotepony\" target=\"_blank\">Twitter</a>"
+googleAnalytics = ""
+# Number of posts per page
+Paginate = 5
+enableRobotsTXT = true
+
+[params.assets]
+customCSS = ["css/custom.css"]
+
+[params.rss]
+includeContent = true # Includes whole content in rss
+authorName = "Ghost Note" # Site author's full name
+
+[params.info]
+adsense = "" # Adsense ID (ID only, without ca-pub-)
+enableSocial = true # Adds OpenGraph and Twitter cards
+homeTitle = "Ghost Note" # Title for home page
+poweredby = true # Adds powered by Hugo and Kiss below Copyright section
+related = true # Includes related articles
+codeCopy = true # Add copy button above code blocks
+taxonomiesCount = true # Add taxonomies count
+
+[params.opengraph.twitter]
+page = "" # Twitter Page username. If not set, params.social.twitter will be used.
+
+[params.social]
+twitter = "ghostnotepony"
+rss = "index.xml"
+
+[params.social.config]
+platforms = ["twitter","rss"]
 
 [taxonomies]
-tag = "tags"
-category = "categories"
+tag ="tags"
 
-[params]
-description = ""
-keywords = ["family", "electric bass", "general thoughts", "ramblings", "brony"]
-author = "Ghost Note"
-sharingicons = true
+[blackfriday]
+hrefTargetBlank = true
 
-[[params.social]]
-title = "email"
-fa_icon = "fa-envelope"
-url = "mailto:jamestwilson@gmail.com"
-
-[[params.social]]
-url = "https://twitter.com/ghostnotepony"
-fa_icon = "fa-twitter"
-
-[[params.social]]
-url = "https://youtube.com/jamestheowilson"
-fa_icon = "fa-youtube"
-
-[[params.social]]
-url = "https://twitch.tv/ghostnotepony"
-fa_icon = "fa-twitch"
-
-[[params.social]]
-url = "/index.xml"
-fa_icon = "fa-rss"
+[params.sections_right]
+"https://twitch.tv/ghostnotepony" = "Twitch"
