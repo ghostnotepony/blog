@@ -25,14 +25,14 @@ codeCopy = true # Add copy button above code blocks
 taxonomiesCount = true # Add taxonomies count
 
 [params.opengraph.twitter]
-page = "" # Twitter Page username. If not set, params.social.twitter will be used.
+page = "ghostnotepony" # Twitter Page username. If not set, params.social.twitter will be used.
 
 [params.social]
-twitter = "ghostnotepony"
-rss = "index.xml"
+#twitter = "ghostnotepony"
+#rss = "index.xml"
 
 [params.social.config]
-platforms = ["twitter","rss"]
+#platforms = ["twitter","rss"]
 
 [taxonomies]
 tag ="tags"
@@ -40,5 +40,7 @@ tag ="tags"
 [blackfriday]
 hrefTargetBlank = true
 
-[params.sections_right]
-"https://twitch.tv/ghostnotepony" = "Twitch"
+[params.sections_left]
+url0 = ["https://twitter.com/ghostnotepony", "Twitter"]
+url1 = ["https://twitch.tv/ghostnotepony",  "Twitch"]
+url2 = ["https://ghostnotepony.github.io/index.xml",  "RSS"]
