@@ -2,7 +2,7 @@ baseurl = "https://ghostnotepony.github.io/"
 languageCode = "en"
 title = "Ghost Note"
 theme = "kiss"
-copyright = "&copy; 2021 | Follow on <a href=\"https://twitter.com/ghostnotepony\" target=\"_blank\">Twitter</a>"
+copyright = "&copy; 2022 | Follow on <a rel=\"me\" href=\"https://equestria.social/@ghostnote\">Mastodon</a>"
 googleAnalytics = ""
 # Number of posts per page
 Paginate = 5
@@ -44,3 +44,4 @@ hrefTargetBlank = true
 url0 = ["https://twitter.com/ghostnotepony", "Twitter"]
 url1 = ["https://twitch.tv/ghostnotepony",  "Twitch"]
 url2 = ["https://ghostnotepony.github.io/index.xml",  "RSS"]
+url3 = ["https://equestria.social/@ghostnote", "Mastodon"]
