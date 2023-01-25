@@ -3,7 +3,8 @@ title: "Brief thoughts on recent fan noise issues"
 date: 2021-05-30T01:35:00-05:00
 ---
 
-## Silent Lucidity..?
+Definitely not Silent Lucidity.
+<!--more-->
 
 As I mentioned in [a recent blog post](https://ghostnotepony.github.io/posts/newtech/), an issue that I had with my new workstation was that it was making a lot of excessive noise whenever the slightest load would be put on the processor.  I mentioned the [Dark Rock Slim](https://www.bequiet.com/en/cpucooler/1659) in the post and that's what I ended up installing.  That install was quite educational and went really well..just took a long time; it involved removing every cable that was plugged in and removing the motherboard itself from the case.  Then, I had to remove the [stock Wraith Prism cooler](https://www.amd.com/en/technologies/cpu-cooler-solution) and its bracket before installing the bracket and cooler for the Dark Rock Slim (along with removing and re-applying thermal paste..)  After reassembling everything, I was surprised that everything worked the first time I booted it.
 

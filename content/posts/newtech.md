@@ -3,14 +3,12 @@ title: "Thoughts on my new workstation/server conversion"
 date: 2021-04-17T22:00:00-05:00
 ---
 
-## Introduction
-
-Well, it's been quite a while since I wrote anything on this site..and quite a lot has happened in the world (massive understatement, I know) and in my own life.  I've talked about those things (mostly) as they happened on my Twitter, so if you are curious as to what I am referring to, [head over there](https://twitter.com/ghostnotepony) and have a look.  (In summary, I discovered my bisexuality/queerness, I've gotten a lot of pony art commissioned/embraced wanting to be an adorable little unicorn, I've struggled immensely with anxiety but have made tremendous progress, especially lately..and I'm a lot happier of an individual lately, overall.)
+Well, it's been quite a while since I wrote anything on this site..and quite a lot has happened in the world (massive understatement, I know) and in my own life.  
+<!--more-->
+I've talked about those things (mostly) as they happened on my Twitter, so if you are curious as to what I am referring to, [head over there](https://twitter.com/ghostnotepony) and have a look.  (In summary, I discovered my bisexuality/queerness, I've gotten a lot of pony art commissioned/embraced wanting to be an adorable little unicorn, I've struggled immensely with anxiety but have made tremendous progress, especially lately..and I'm a lot happier of an individual lately, overall.)
 
 This post, though, is about my new workstation and how I converted my previous one (which I had used for 10+ years) into a server.  Instead of a strictly chronological account, I'm going to go over the various obstacles I faced, how I solved/worked around them, and the current minor issues I'm seeing.
-
 ## Workstation build/thoughts
-
 [These are the specs I decided on after a lot of research and thought.](https://pcpartpicker.com/list/TCyvcT)  Due to the inequitable and unjustifiable scarcity of video cards, I moved my existing one into the new computer; I had found a 20+ year old Voodoo3 card that would be put into the server as all it needs after the installation are text consoles..this card, with its "sizable" 16M of video memory, doesn't even need a fan and thus draws a lot less power than this Radeon RX580 behemoth.  (More on how that worked out during the install later..)
 
 The first obstacle I ran into was attaching the power supply..I couldn't get it screwed in properly and I was getting frustrated over it (though nothing like the issues I had 10 years ago..and now I know why which I'll explain in the server section.)  So I eventually had my wife look at it and she noticed I was using the wrong screws.  (I love her so much ^^)  The lessons to be learned from this case are that it never hurts to have another set of eyes check your work..and make sure you're using the proper screws. ^^
